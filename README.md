@@ -1,2 +1,2 @@
 # Desafios-HTML5-CSS3
- Desafios propostos pelo Curso em Vídeo no curso de HTML5 e CSS3 - módulo 1. 
+ Desafios propostos pelo Curso em Vídeo no curso de HTML5 e CSS3. 
